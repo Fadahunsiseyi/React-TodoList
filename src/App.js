@@ -53,3 +53,4 @@ function App() {
 }
 
 export default App;
+// "deploy": "npm run build && firebase deploy",
